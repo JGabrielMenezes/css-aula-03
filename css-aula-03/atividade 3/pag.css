@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    background-image: url(https://i.pinimg.com/474x/b1/29/7c/b1297c2ef7ba94ca53492d183efb9156.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: green;
+    color: white;
+}
